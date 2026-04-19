@@ -1,6 +1,6 @@
 # Age of Onset GWAS Pipeline — Admixed Population Cohort
 
-A modular, HPC-ready pipeline for genome-wide association study (GWAS) of **Alzheimer's Disease Age of Onset (AOO)** in an admixed cohort. The pipeline combines linear and survival (Cox PH) regression approaches, with full quality control, visualization, and gene/pathway analysis steps.
+A modular pipeline for genome-wide association study (GWAS) of **Alzheimer's Disease Age of Onset (AOO)** in an admixed cohort. The pipeline combines linear and survival (Cox PH) regression approaches, with full quality control, visualization, and gene/pathway analysis steps.
 
 ---
 
